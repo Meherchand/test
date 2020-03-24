@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-09-27T13:41:45Z" name="Default suite" finished-at="2019-09-27T13:41:49Z" duration-ms="3994">
+    <groups>
+    </groups>
+    <test started-at="2019-09-27T13:41:45Z" name="Default test" finished-at="2019-09-27T13:41:49Z" duration-ms="3994">
+      <class name="basics.CreateAndCommentJiraIssue">
+        <test-method signature="IssueCreation()[pri:1, instance:basics.CreateAndCommentJiraIssue@6ff29830]" started-at="2019-09-27T13:41:45Z" name="IssueCreation" finished-at="2019-09-27T13:41:49Z" duration-ms="3211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IssueCreation -->
+        <test-method signature="createCommentOnaboveIssue()[pri:2, instance:basics.CreateAndCommentJiraIssue@6ff29830]" started-at="2019-09-27T13:41:49Z" name="createCommentOnaboveIssue" finished-at="2019-09-27T13:41:49Z" duration-ms="277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCommentOnaboveIssue -->
+        <test-method signature="updateComment()[pri:3, instance:basics.CreateAndCommentJiraIssue@6ff29830]" started-at="2019-09-27T13:41:49Z" name="updateComment" finished-at="2019-09-27T13:41:49Z" duration-ms="446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateComment -->
+      </class> <!-- basics.CreateAndCommentJiraIssue -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
